@@ -1,0 +1,25 @@
+{
+  "id": "755bad81-dd92-4812-aecf-763e8bd5fd76",
+  "name": "ALCompanyProject",
+  "publisher": "Default publisher",
+  "version": "1.0.0.24",
+  "runtime": "7.0",
+  "showMyCode": true,
+  "target": "Cloud",
+  "platform": "18.0.29486.0",
+  "contextSensitiveHelpUrl": "https://ALCompanyProject.com/help/",
+  "dependencies": [
+    {
+      "id": "c1335042-3002-4257-bf8a-75c898ccb1b8",
+      "name": "Application",
+      "version": "18.0.0.0",
+      "publisher": "Microsoft"
+    }
+  ],
+  "idRanges": [
+    {
+      "from": 50100,
+      "to": 50149
+    }
+  ]
+}
